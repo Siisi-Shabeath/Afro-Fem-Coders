@@ -1,0 +1,38 @@
+body {
+    background-color: #76e9e9;
+    color: black;
+    font-family: papyrus, fantasy;
+    font-size: 1.7em;
+}
+
+h1{
+    text-decoration: underline;
+    color: rgb(190, 29, 211);
+    font-family: "lucida handwriting", cursive;
+}
+
+h2{
+    font-family: "lucida handwriting", cursive;
+    color: rgb(128, 84, 26);
+}
+#html-anatomy-heading{
+    font-family: "lucida handwriting", cursive;
+    color: rgb(26, 204, 41);
+}
+
+#html-summary-heading{
+    font-family: "lucida handwriting", cursive;
+    color: crimson;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.bold{
+    font-weight: bold;
+}
+#introduction-ps{
+    font-style: italic;
+    font-size: 0.5cm;
+}
